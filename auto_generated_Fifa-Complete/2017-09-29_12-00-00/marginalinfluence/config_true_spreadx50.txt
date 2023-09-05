@@ -1,0 +1,11 @@
+# Config file for computing true spread under CD model.
+phase : 14
+graphFile : auto_generated_TSeedSComplete/2017-09-29_12-00-00/training/scan2/edgesCounts.txt
+actionsFile : auto_generated_TSeedSComplete/2017-09-29_12-00-00/actionslog.txt
+userInflFile : auto_generated_TSeedSComplete/2017-09-29_12-00-00/training/scan2/usersCounts.txt
+seedFileName : auto_generated_TSeedSComplete/2017-09-29_12-00-00/marginalinfluence/seedsx50.txt
+outdir : auto_generated_TSeedSComplete/2017-09-29_12-00-00/marginalinfluence/
+maxTuples : 0
+trainingActionsFile : auto_generated_TSeedSComplete/2017-09-29_12-00-00/actions_in_training.txt
+propModel : PC
+testingActionsFile : auto_generated_TSeedSComplete/2017-09-29_12-00-00/actions_in_testing.txt

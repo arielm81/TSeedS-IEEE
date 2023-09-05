@@ -1,0 +1,11 @@
+# Config file for learning paramters (Scan 2)
+
+phase : 1
+computeUserInf : 1
+
+training_dir : auto_generated/training/scan1
+actionsFile : auto_generated/actionslog.txt
+
+outdir : auto_generated/training/scan2
+maxTuples : 0
+trainingActionsFile : auto_generated/actions_in_training.txt

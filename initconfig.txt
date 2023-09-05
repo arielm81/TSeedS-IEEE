@@ -1,0 +1,5 @@
+OlderTime : 1440
+UpdateWindow : 1
+TrainingWindow : 15
+CategoryFilter : cat-filter.txt
+LanguageFilter : lang-filter.txt

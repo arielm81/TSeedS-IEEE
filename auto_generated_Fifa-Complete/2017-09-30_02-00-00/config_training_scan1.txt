@@ -1,0 +1,8 @@
+# Config file for learning paramters (Scan 1)
+phase : 1
+computeUserInf : 0
+graphFile : auto_generated_TSeedSComplete/2017-09-30_02-00-00/graph.txt
+actionsFile : auto_generated_TSeedSComplete/2017-09-30_02-00-00/actionslog.txt
+outdir : auto_generated_TSeedSComplete/2017-09-30_02-00-00/training/scan1/
+maxTuples : 0
+trainingActionsFile : auto_generated_TSeedSComplete/2017-09-30_02-00-00/actions_in_training.txt

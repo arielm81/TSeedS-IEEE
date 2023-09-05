@@ -1,0 +1,647 @@
+Started running at 12:21:32  2017-10-27
+Endpoint: /lists/members/show
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /lists/ownerships
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /tweets/search/:product/:label
+ Limit: 1800
+ Remaining: 1800
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /friends/list
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /direct_messages/subscribers/lists/show
+ Limit: 180
+ Remaining: 180
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /collections/entries
+ Limit: 1000
+ Remaining: 1000
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /collections/list
+ Limit: 1000
+ Remaining: 1000
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /friends/following/list
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /saved_searches/list
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /help/configuration
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /statuses/friends
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /saved_searches/destroy/:id
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /mutes/users/list
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /direct_messages/sent
+ Limit: 300
+ Remaining: 300
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /lists/subscribers/show
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /direct_messages/events/list
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /direct_messages/subscribers/lists/members/ids
+ Limit: 180
+ Remaining: 180
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /lists/show
+ Limit: 75
+ Remaining: 75
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /live_event/1/:id/timeline
+ Limit: 5000
+ Remaining: 5000
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /users/profile_banner
+ Limit: 180
+ Remaining: 180
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /webhooks
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /trends/available
+ Limit: 75
+ Remaining: 75
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /geo/similar_places
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /guide
+ Limit: 180
+ Remaining: 180
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /friendships/outgoing
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /application/rate_limit_status
+ Limit: 180
+ Remaining: 179
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /friends/following/ids
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /favorites/list
+ Limit: 75
+ Remaining: 75
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /account_activity/webhooks
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /account/settings
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /trends/closest
+ Limit: 75
+ Remaining: 75
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /business_experience/dashboard_features
+ Limit: 450
+ Remaining: 450
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /lists/members
+ Limit: 900
+ Remaining: 900
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /business_experience/dashboard_settings/destroy
+ Limit: 450
+ Remaining: 450
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /contacts/users
+ Limit: 300
+ Remaining: 300
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /sandbox/account_activity/webhooks/:id/subscriptions
+ Limit: 500
+ Remaining: 500
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /account_activity/webhooks/:id/subscriptions/all
+ Limit: 500
+ Remaining: 500
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /direct_messages/sent_and_received
+ Limit: 300
+ Remaining: 300
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /geo/id/:place_id
+ Limit: 75
+ Remaining: 75
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /users/show/:id
+ Limit: 900
+ Remaining: 900
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /business_experience/dashboard_settings/show
+ Limit: 450
+ Remaining: 450
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /direct_messages/subscribers/lists/list
+ Limit: 180
+ Remaining: 180
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /followers/ids
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /lists/statuses
+ Limit: 900
+ Remaining: 900
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /friendships/lookup
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /trends/place
+ Limit: 75
+ Remaining: 75
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /users/lookup
+ Limit: 900
+ Remaining: 900
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /statuses/user_timeline
+ Limit: 900
+ Remaining: 900
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /drafts/statuses/list
+ Limit: 450
+ Remaining: 450
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /collections/show
+ Limit: 1000
+ Remaining: 1000
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /live_video_stream/status/:id
+ Limit: 1000
+ Remaining: 1000
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /tweets/search/:product/:instance/counts
+ Limit: 900
+ Remaining: 900
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /moments/permissions
+ Limit: 300
+ Remaining: 300
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /search/tweets
+ Limit: 180
+ Remaining: 180
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /media/upload
+ Limit: 500
+ Remaining: 500
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /direct_messages/broadcasts/statuses/list
+ Limit: 60
+ Remaining: 60
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /account/login_verification_enrollment
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /friendships/list
+ Limit: 200
+ Remaining: 200
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /direct_messages/subscribers/ids
+ Limit: 180
+ Remaining: 180
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /direct_messages/events/show
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /friendships/no_retweets/ids
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /direct_messages/broadcasts/list
+ Limit: 60
+ Remaining: 60
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /drafts/statuses/ids
+ Limit: 450
+ Remaining: 450
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /statuses/show/:id
+ Limit: 900
+ Remaining: 900
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /geo/reverse_geocode
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /help/privacy
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /users/report_spam
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /drafts/statuses/update
+ Limit: 450
+ Remaining: 450
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /users/suggestions/:slug
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /contacts/uploaded_by
+ Limit: 300
+ Remaining: 300
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /statuses/oembed
+ Limit: 180
+ Remaining: 180
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /feedback/show/:id
+ Limit: 180
+ Remaining: 180
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /live_pipeline/events
+ Limit: 180
+ Remaining: 180
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /direct_messages
+ Limit: 300
+ Remaining: 300
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /i/config
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /followers/list
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /custom_profiles/show
+ Limit: 180
+ Remaining: 180
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /help/languages
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /mutes/users/ids
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /blocks/ids
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /statuses/retweets/:id
+ Limit: 75
+ Remaining: 75
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /statuses/lookup
+ Limit: 900
+ Remaining: 900
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /lists/subscribers
+ Limit: 180
+ Remaining: 180
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /friendships/incoming
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /drafts/statuses/destroy
+ Limit: 450
+ Remaining: 450
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /drafts/statuses/show
+ Limit: 450
+ Remaining: 450
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /business_experience/keywords
+ Limit: 450
+ Remaining: 450
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /users/suggestions
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /statuses/retweeters/ids
+ Limit: 75
+ Remaining: 75
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /lists/list
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /direct_messages/mark_read
+ Limit: 1000
+ Remaining: 1000
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /custom_profiles/list
+ Limit: 180
+ Remaining: 180
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /users/contributees/pending
+ Limit: 200
+ Remaining: 200
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /direct_messages/subscribers/show
+ Limit: 180
+ Remaining: 180
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /account/update_profile
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /help/tos
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /business_experience/dashboard_settings/update
+ Limit: 450
+ Remaining: 450
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /direct_messages/broadcasts/statuses/show
+ Limit: 60
+ Remaining: 60
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /feedback/events
+ Limit: 1000
+ Remaining: 1000
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /help/settings
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /webhooks/subscriptions/direct_messages
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /account_activity/webhooks/:id/subscriptions
+ Limit: 500
+ Remaining: 500
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /direct_messages/broadcasts/show
+ Limit: 60
+ Remaining: 60
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /statuses/retweets_of_me
+ Limit: 75
+ Remaining: 75
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /blocks/list
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /device/token
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /friendships/show
+ Limit: 180
+ Remaining: 180
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /account/verify_credentials
+ Limit: 75
+ Remaining: 75
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /contacts/delete/status
+ Limit: 300
+ Remaining: 300
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /contacts/addressbook
+ Limit: 300
+ Remaining: 300
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /users/search
+ Limit: 900
+ Remaining: 900
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /users/suggestions/:slug/members
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /users/derived_info
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /statuses/home_timeline
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /account_activity/webhooks/:id/subscriptions/direct_messages
+ Limit: 500
+ Remaining: 500
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /tweet_prompts/report_interaction
+ Limit: 180
+ Remaining: 180
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /saved_searches/show/:id
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /direct_messages/show
+ Limit: 300
+ Remaining: 300
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /direct_messages/subscribers/lists/members/show
+ Limit: 1000
+ Remaining: 1000
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /statuses/mentions_timeline
+ Limit: 75
+ Remaining: 75
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /users/contributors/pending
+ Limit: 2000
+ Remaining: 2000
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /lists/memberships
+ Limit: 75
+ Remaining: 75
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /drafts/statuses/create
+ Limit: 450
+ Remaining: 450
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /friends/ids
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /tweet_prompts/show
+ Limit: 180
+ Remaining: 180
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /contacts/users_and_uploaded_by
+ Limit: 300
+ Remaining: 300
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /auth/csrf_token
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /geo/search
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Endpoint: /lists/subscriptions
+ Limit: 15
+ Remaining: 15
+ ResetTimeInSeconds: 1509118601
+ SecondsUntilReset: 905
+Finished running at 12:21:35  2017-10-27
